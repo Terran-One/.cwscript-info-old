@@ -15,7 +15,7 @@ CWScript is a new programming language for writing CosmWasm smart contracts that
 - [`cwscript-lang`](https://github.com/terran-one/cwscript-lang) - CWScript formal language definition, parser, various language support facilities
 - [`tree-sitter-cwscript`](https://github.com/terran-one/tree-sitter-cwscript) - CWScript grammar for `tree-sitter`, for incremental parsing & other tooling
 - [`cwscript-docs`](https://github.com/terran-one/cwscript-docs) - Official site / docs for CWScript (https://cwscript.com)
-- [`cwsc`](https://github.com/terran-one/cwsc) - Reference implementation of the CWScript compiler, in TypeScript
+- [`cwsc`](https://github.com/Terran-One/cwsc.ts) - Reference implementation of the CWScript compiler, in TypeScript
 
 ## License
 
